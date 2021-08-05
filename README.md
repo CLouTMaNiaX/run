@@ -65,3 +65,4 @@ data in real time! Below are some tips on how take full advantage of your node.
 The dev community is active on Discord and generally available to answer any
 questions you might have, or any issues you run into. If you're having trouble, just
 message in `#nodes-discussion` on the [Bitclout Community Discord](https://discord.com/invite/bitclout).
+# run
